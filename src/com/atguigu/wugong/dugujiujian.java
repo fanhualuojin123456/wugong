@@ -6,5 +6,6 @@ public class dugujiujian {
 		System.out.println("第二式");
 		System.out.println("第三式");
 		System.out.println("第四式");
+		System.out.println("第五式");
 	}
 }
